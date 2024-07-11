@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>flink_kafka_java_demo_1</module>
+        <module>flink_kafka_scala_demo_1</module>
     </modules>
 
     <properties>
